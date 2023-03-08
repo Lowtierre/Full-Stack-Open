@@ -57,7 +57,8 @@ const App = () => {
       <Line 
         arr={anecdotes}
         index={max}
-      />    </div>
+      />
+    </div>
   )
 }
 
